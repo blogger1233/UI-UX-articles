@@ -1,0 +1,68 @@
+Form design best pratices: 
+
+Companies use forms on their websites to allow visitors to sign up to create an account, buy a product, pay for an item and more. That is why online form design is so important. You may not be able to entice you visitors to take the time to provide you will all their personal information if you don't hav a simple, user-friendly, visually or aesthetically pleasing form.
+
+
+What exactly is form design?
+
+Form design is about creating a web form where your site visitors can enter and submit information while keeping the layout, format, user experience(UX), appearence and other factors in mind. A well-designed form improves the user experience and increase conversions, which means that you turn users into customers.
+
+The design of your form influnces your website's overall UX, affecting the number of happy visitors and conversion. A well-designed form demonstrates to users that your company is helpful, thoughtful, professional, technologically savvy and enjoyable to work with.
+
+On the other hand, a poorly designed form may result in page and website abandonment or a frustated user, resulting in a drop in conversions and sales. Expedia, for example, discovered the one extraneous form field box alone was costing them $12 million in profit per year! in this reading, you'll learn abut some of the best practices and guidlines of form design.
+
+Form design best practices and guidelines:
+
+Keep forms simple and straightforward:
+
+Avoid adding any unnecessary fields or questions. Include only the required information in your form.
+
+Use one column:
+
+When possible, use a single column web form layout- this is especially important when creating long multi-step forms. Single-column layouts are more straightforward for visitors to follow, understand, complete and submit than forms with multiple columns
+
+Clearly label your form
+
+Give your form a title that lets your visitors know what will happen once they submit it. For example, a simple form title like 'create an account' clearly states that once a visitor submits their information, they will have created an account.
+
+Sort your form fields from the simplest to the most difficult 
+
+Begin your form with the most straightforward field questions (Such as name and email) before moving on to the most time consuming questions, for example, billing and shipping informations. When visitors start filling out your form and think, 'OK, I can quickly add my name and email,' they are far less likely to leave the page since they already decided to commit.
+
+Make use of inline form field validation
+
+Inline form validation is a procedure that checks a visitor's information in realtime as they fill out the form. Suppose your visitors enter incorrect information into a field, such as a incorrect credit card number or email. An error page message will show below or inside the form field, alerting the visitor to their mistake and allowing them to quickly correct it and move on to the next question.
+
+The text should be aligned to the left
+
+Align all your text - including queries and labels -to the left side of the form so that it is easy for your visitors to read and complete. Researchers at the university of basel observed that aligngin text on the left side, above the form field box, decreases the time requried to fill out the form. This alignment reduces the time a user's eyes have to move around, making the form easier to read.
+
+Do not request phone numbers
+
+Unless collecting your visitors' phone number is critical, for example, a quote request or product demo, don't include it in your form. Asking for you visitors's phone number can create a feeling of suspicion unless they know a legitmate reason for the request. When possible, request an email address instead and use that to contact your visitors with their permission. Alternatievly make the phone number field in your form voluntary.
+
+Use browser auto fill
+
+Completing specific form fields is now quicker than ever, thanks to autofill features in browser that draw from prior data entered from a visitor's device, like their first and last name. To help your visitors speed up the completion process, it's best practice to title each field with a word that browser will recognize.
+
+Create mobile-friendly forms
+
+Many people browse, purchase products and complete forms on their mobile devices, which is why mobile-friendly form design is critical. This helps visitors to your website to easy view a site on any mobile device and ensres that all the form information fits the screen size.
+
+Error messages should be positive
+
+Make sure to sound positive when creating web form error message. This is a great way to ensure that only correct information is submitted. Never blame the user;instead, use clear and concise language and include information that guides the visitor to the error. This way, they know precisely where it is and how it needs to be corrected.
+
+Include smart defaults
+
+Enabling smart defaults is another excellent way to help speed up the form completion process while maintaining accuracy. Smart defaults use information like your user's current location to instantly enter details like city or town, saving them time
+
+For long forms, add progress bars
+
+Have you ever filled out a long form or survey and though, "how many other questions are there?" Progress bars show how many questions your visitors must answer. They will give them a clue of how long it will take to finish the task and may act as form of motivation to finsih the task at hand. These are especially helpful on long, multi-step forms.
+
+Use reCAPTCHA rather then CAPTCHAs
+
+Have you ever been asked to look at a relatively challenging image with numbers and letters and then to type those numbers and letters into a form field to confirm you'r "not a robot" after completing a form? CAPTCHAs are used to identify SPAM and bots. Tehy can however, be time-consuming and frustrating to finish. They are still helpful; you may want to include this additional security mesure in your forms. If this is the case, you should use recaptchas in your form instread. reCAPTCHAs identify fake accounts and bot not only successfully but alos require visitor check only a box before submitting a form. A CAPTCHA uses lettering for security whereas a reCAPTCHA asks the user to identify elements of images.
+
+
