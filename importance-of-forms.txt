@@ -1,0 +1,5 @@
+THE IMPORTANCE OF FORMS
+
+Anyone who uses an app or website has a specific goal in mind. A form is frequently the only thing that stands between the user and thier goal. Form continue to be one of the essential types of user interactions on the web and in apps. Forms are frequently regarding the final step in achieving one's objectives. Users should be able to complete forms quickly and easily. Let's examine Little Lemon's current checkout form in detail, which demonstrates some commong errors in form design.
+
+
